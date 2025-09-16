@@ -1,0 +1,14 @@
+org/acme/maintenancescheduling/domain/Job.class
+org/acme/maintenancescheduling/domain/MaintenanceSchedule.class
+org/acme/maintenancescheduling/bootstrap/DemoDataGenerator.class
+org/acme/maintenancescheduling/domain/Crew.class
+org/acme/maintenancescheduling/rest/MaintenanceScheduleResource.class
+org/acme/maintenancescheduling/solver/MaintenanceScheduleConstraintProvider.class
+org/acme/maintenancescheduling/persistence/WorkCalendarRepository.class
+org/acme/maintenancescheduling/domain/Timeslot.class
+org/acme/maintenancescheduling/persistence/TimeslotRepository.class
+org/acme/maintenancescheduling/persistence/JobRepository.class
+org/acme/maintenancescheduling/domain/WorkCalendar.class
+META-INF/panache-archive.marker
+org/acme/maintenancescheduling/persistence/CrewRepository.class
+org/acme/maintenancescheduling/bootstrap/DemoDataGenerator$DemoData.class

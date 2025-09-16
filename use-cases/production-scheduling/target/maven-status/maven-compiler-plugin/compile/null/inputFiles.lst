@@ -1,0 +1,12 @@
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/solver/MaintenanceScheduleConstraintProvider.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/domain/Crew.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/domain/Job.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/persistence/WorkCalendarRepository.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/rest/MaintenanceScheduleResource.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/domain/WorkCalendar.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/persistence/JobRepository.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/domain/MaintenanceSchedule.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/persistence/TimeslotRepository.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/bootstrap/DemoDataGenerator.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/persistence/CrewRepository.java
+/Users/gayoung/optaplanner-quickstarts/use-cases/production-scheduling/src/main/java/org/acme/maintenancescheduling/domain/Timeslot.java
